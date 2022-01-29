@@ -5,4 +5,4 @@
 ## Installation
 ### You can examine index.html by cloning it.
 
-git clone https://github.com/AykutGm/google-first-version-clone
+git clone https://github.com/AykutGm/google-last-version-clone
